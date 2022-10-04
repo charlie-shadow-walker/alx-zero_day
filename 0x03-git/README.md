@@ -1,1 +1,1 @@
-here we go first git project
+updated readme
